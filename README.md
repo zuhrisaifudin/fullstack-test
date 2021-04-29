@@ -15,3 +15,4 @@ Backend should be a RESTful API its big plus, heheh
 - You can see the detail for structure for database in [this link](https://raw.githubusercontent.com/zuhrisaifudin/fullstack-test/master/Screen%20Shot%202021-04-29%20at%2011.01.15.png)  
 - Clone this repo and push your code to github
 - Let us know that you are done
+- If any Question for this test, you can contact me in email
