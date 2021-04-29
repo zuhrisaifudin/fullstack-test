@@ -5,7 +5,7 @@ Create mini Application for Website Crowdfunding so every user can donation and 
 Backend should be a RESTful API its big plus, heheh
 
 
-## requirements
+## Requirements
 
 - Use popular PHP framework (Laravel)
 - You can use favorite CSS Framework like GETbootstrap admin like https://adminlte.io/ or which you like to use
